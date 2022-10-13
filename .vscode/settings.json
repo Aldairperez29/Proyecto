@@ -1,0 +1,7 @@
+{
+    "editor.fontSize": 16,
+    "editor.tabSize": 4,
+    "editor.accessibilityPageSize": 18,
+    "editor.cursorStyle": "line",
+    "workbench.activityBar.iconClickBehavior": "toggle"
+}
